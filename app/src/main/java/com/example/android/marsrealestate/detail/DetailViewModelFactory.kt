@@ -32,6 +32,9 @@ class DetailViewModelFactory(
         if (modelClass.isAssignableFrom(DetailViewModel::class.java)) {
             return DetailViewModel(marsProperty, application) as T
         }
+
+
+        /// dummy comment
         throw IllegalArgumentException("Unknown ViewModel class")
     }
 }
