@@ -1,0 +1,6 @@
+androidx.navigation.fragment.FragmentKt
+androidx.navigation.fragment.FragmentNavArgsLazyKt
+androidx.navigation.fragment.FragmentNavArgsLazyKt$navArgs$1
+androidx.navigation.fragment.FragmentNavigatorDestinationBuilder
+androidx.navigation.fragment.FragmentNavigatorDestinationBuilderKt
+androidx.navigation.fragment.FragmentNavigatorExtrasKt
